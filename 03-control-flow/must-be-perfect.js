@@ -14,6 +14,13 @@ let word = "carrots";
 let lastWord;
 
 // YOUR CODE BELOW
+if(word.charAt(0)==='p' && word.length() === 7){
+lastWord = word.toUpperCase()
+
+} else{
+    lastWord = word
+}
+
 
 // Do not the the code below
 module.exports = { word, lastWord };

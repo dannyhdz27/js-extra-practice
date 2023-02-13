@@ -6,3 +6,5 @@ EX: "apples".toUpperCase() OUTPUT: "APPLES"
 */
 
 // YOUR CODE BELOW
+
+"Question".toUpperCase()

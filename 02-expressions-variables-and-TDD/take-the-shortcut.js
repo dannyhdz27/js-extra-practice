@@ -10,7 +10,13 @@
 
 let happyNum = 1000;
 
+
 // YOUR CODE BELOW
+happyNum /= 10;
+happyNum -= 99;
+happyNum += 3;
+happyNum ++;
+
 
 // Do not change the code below
 module.exports = { happyNum };

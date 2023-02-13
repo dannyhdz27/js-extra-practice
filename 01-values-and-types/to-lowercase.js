@@ -6,3 +6,6 @@ EX: "FULLSTACK ACADEMY".toLowerCase() OUTPUT: "fullstack academy";
 */
 
 // YOUR CODE BELOW
+let testString = "THIS IS A TEST"
+testString.toLowerCase()
+
